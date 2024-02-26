@@ -1,4 +1,4 @@
-# Japanese-newspapers-classification
+# Japanese-newspapers-classification 📰🗞️
 ## This repository contains a Natural Language Processing project to classify articles from multiple Japanese newspapers. 
 
 ## Dataset 📊
@@ -56,7 +56,7 @@ Use cross-validation to compare results across different folds and prevent overf
 
 Regarding deep learning models, the following were tested:
 - **GRU**: Special Recurrent Neural Network that uses memory gates to store the most important information
-- **LSTM*+ : Long-Short-Term-Memory, type of neural network equipped with long-term memory
+- **LSTM** : Long-Short-Term-Memory, type of neural network equipped with long-term memory
 
 In summary, the results are good and better than the machine learning approach, in particular:
 - GRU reaches 0.53 accuracy in the train set, 0.57 in the validation set and 0.57 in the test set, with 6 epochs, 3 layers, 64 neurons for the first two layers and 23 in the last layer.
