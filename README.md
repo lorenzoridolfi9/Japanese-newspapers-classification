@@ -13,11 +13,14 @@ The columns are the same for both datasets and are as follows:
 ## Process of Analysis ⚙️
 After loading the dataset, the steps were as follows:
 - **Data preprocessing** 👀
+
 Check the number of records, number of columns, number of classes and number of records for each class.
 Next, check for null values for each column and check for duplicate records.
 - **Exploratory Data Analysis** 🔍
+
 After eliminating duplicate records and those with null values in the columns of interest (text and source), an exploratory analysis process was conducted using graphs to understand the distribution of the classes. Additionally, graphs were printed for both datasets to see the number of null values in the author and title columns. Finally, two other graphs show the average length of articles for each newspaper class.
 - **Data preparation** 📈
+  
 The data_cleaning function allows you to clean the text, both for Japanese and English, done separately for linguistic reasons. In detail, the stop words were eliminated, the text was standardized in lowercase, the sentences were split into single words and lemmatization was applied to bring the verbs back into basic form.
 Subsequently, the datasets were concatenated maintaining only two columns, text and source.
 
