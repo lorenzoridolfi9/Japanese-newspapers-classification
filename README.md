@@ -1,5 +1,5 @@
-# Japanese-newspapers-classification 📰🗞️
-## This repository contains a Natural Language Processing project to classify articles from multiple Japanese newspapers. 
+# Japanese-newspapers-classification 📰 🗞️
+## This repository contains a Natural Language Processing project to classify articles from multiple Japanese newspapers 🈯️ 🈂️
 
 ## Dataset 📊
 There are two datasets, one containing approximately 312,000 records with text in Japanese, the other containing approximately 36,000 records with text in English, but always referring to Japanese newspapers.
