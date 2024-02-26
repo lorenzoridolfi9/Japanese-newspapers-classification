@@ -8,8 +8,9 @@ The columns are the same for both datasets and are as follows:
 - Date: Date of publication of the article
 - Author: Author of the article
 - Title: Title of the article
-- Source: Newspaper that published the article
+- Source: Newspaper that published the article. There are 23 unique source.
 
+you can find the two datasets used in the project in my google drive at the following [Link](https://drive.google.com/drive/folders/1polqOeG7XF0TiTZvdvFM_z-BDRhQARYT).
 ## Process of Analysis ⚙️
 After loading the dataset, the steps were as follows:
 - **Data preprocessing** 👀
