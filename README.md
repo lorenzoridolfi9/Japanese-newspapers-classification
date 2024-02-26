@@ -47,6 +47,7 @@ In summary, the results are different from each other:
 - Random Forest: 0.98 accuracy in the train but 0.40 in the test set, therefore showing overfitting problems.
 
 Some suggestions 💡
+
 It is a good idea to do hyperparameter tuning to understand which is the best set of parameters to use, in particular:
 - MLP: test with at least two layers and fewer neurons per layer. Test different activation functions.
 - Random Forest: test a random search by trying different configurations, such as the number of trees and the depth of the trees.
@@ -62,6 +63,7 @@ In summary, the results are good and better than the machine learning approach, 
 -LSTM reaches 0.70 accuracy in the train set, 0.60 in the validation set and 0.60 in the test set, with 10 epochs, 3 layers, 128 neurons for the first two layers and 23 in the last layer.
 
 Some suggestions 💡
+
 It is a good idea to do hyperparameter tuning to understand which is the best set of parameters to use, in particular:
 - GRU: test with layers of 128 neurons and at least 10 training epochs
 - LSTM: Try adding a further layer of 64 neurons, trying to hyperparameter tune the other parameters such as dropout and activation function.
