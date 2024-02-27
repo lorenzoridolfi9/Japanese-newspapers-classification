@@ -54,8 +54,8 @@ In summary, the results are different from each other:
   
 0 | Accuracy :smile:
 -|-
-Train-set | 0.58     :thumbsup:
-Test-set | 0.41   :cry:
+Train-set | 0.58     
+Test-set | 0.41   
 3 | Anger     :angry:
 4 | Fear      :scream:
 5 | Disgust   :dizzy_face:  
