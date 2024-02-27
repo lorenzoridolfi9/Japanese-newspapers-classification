@@ -123,7 +123,7 @@ Test-set | 0.60
 Some suggestions 💡
 
 It is a good idea to do hyperparameter tuning to understand which is the best set of parameters to use, in particular:
-- GRU: test with layers of 128 neurons and at least 10 training epochs
+- GRU: testing with an additional layer, different dropout values and epochs, different activation functions, different numbers of neroni for each layers
 - LSTM: Try adding a further layer of 64 neurons, trying to hyperparameter tune the other parameters such as dropout and activation function.
 
 
