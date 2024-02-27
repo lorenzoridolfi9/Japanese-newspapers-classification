@@ -54,8 +54,8 @@ In summary, the results are different from each other:
   
 0 | Happiness :smile:
 -|-
-Train-set | Trust     :thumbsup:
-2 | Sadness   :cry:
+Train-set | 0.58     :thumbsup:
+Test-set | 0.41   :cry:
 3 | Anger     :angry:
 4 | Fear      :scream:
 5 | Disgust   :dizzy_face:  
