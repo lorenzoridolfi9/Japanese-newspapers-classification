@@ -87,7 +87,7 @@ Regarding **Deep Learning** models, the following were tested:
   
 - **LSTM**: Long-Short-Term-Memory, type of neural network equipped with long-term memory
 
-- - **BILSTM**: Bidirectional Long-Short-Term-Memory, is a type of neural network that uses two layers of LSTM to capture information on both sides
+- **BILSTM**: Bidirectional Long-Short-Term-Memory, is a type of neural network that uses two layers of LSTM to capture information on both sides
 
 In summary, the results are good and better than the machine learning approach, in particular:
 - **GRU**
