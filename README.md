@@ -95,7 +95,7 @@ Dataset | Accuracy
 Train-set | 0.69    
 Test-set | 0.58
 
--  Hyperparameters: 6 epochs, 3 layers, 64 neurons for the first two layers and 23 in the last layer.
+-  Hyperparameters: 6 epochs, 3 layers, 128 neurons for the first layer, 64 neurons the second one and 23 in the last layer.
   
 - **LSTM**
 
@@ -104,7 +104,7 @@ Dataset | Accuracy
 Train-set | 0.70    
 Test-set | 0.60
 
--   Hyperparameters: 10 epochs, 3 layers, 128 neurons for the first two layers and 23 in the last layer.
+-   Hyperparameters: 10 epochs, 3 layers, 128 neurons for the first layer, 64 neurons the second one and 23 in the last layer.
 
 
 
