@@ -92,8 +92,8 @@ In summary, the results are good and better than the machine learning approach, 
 
 Dataset | Accuracy
 -|-
-Train-set | 0.53    
-Test-set | 0.57
+Train-set | 0.69    
+Test-set | 0.58
 
 -  Hyperparameters: 6 epochs, 3 layers, 64 neurons for the first two layers and 23 in the last layer.
   
