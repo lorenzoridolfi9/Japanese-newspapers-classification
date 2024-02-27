@@ -56,9 +56,7 @@ In summary, the results are different from each other:
 -|-
 Train-set | 0.58     
 Test-set | 0.41   
-3 | Anger     :angry:
-4 | Fear      :scream:
-5 | Disgust   :dizzy_face:  
+ 
 
 - **MLP**: 0.72 accuracy in the train set and 0.45 in the test set, using 500 neurons and a single hidden layer
 - **Random Forest**: 0.98 accuracy in the train but 0.40 in the test set, therefore showing overfitting problems.
