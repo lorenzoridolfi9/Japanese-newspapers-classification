@@ -52,7 +52,7 @@ The approach was as follows:
 In summary, the results are different from each other:
 - **Logistic Regression**
   
-0 | Accuracy
+Dataset | Accuracy
 -|-
 Train-set | 0.58     
 Test-set | 0.41   
