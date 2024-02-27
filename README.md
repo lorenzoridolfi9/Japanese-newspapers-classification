@@ -60,7 +60,7 @@ Test-set | 0.41
 
 - **MLP**:
 
-  Dataset | Accuracy
+Dataset | Accuracy
 -|-
 Train-set | 0.72     
 Test-set | 0.45 
