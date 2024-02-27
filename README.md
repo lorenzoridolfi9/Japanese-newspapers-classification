@@ -112,8 +112,8 @@ Test-set | 0.56
 
 Dataset | Accuracy
 -|-
-Train-set | 0.70    
-Test-set | 0.60
+Train-set | 0.71    
+Test-set | 0.59
 
 -   Hyperparameters: 10 epochs, 3 layers, 128 neurons for the first layer, 64 neurons the second one and 23 in the last layer.
 
