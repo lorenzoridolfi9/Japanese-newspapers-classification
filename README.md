@@ -51,6 +51,7 @@ The approach was as follows:
 
 In summary, the results are different from each other:
 - **Logistic Regression**: **0.58 accuracy** --> **train set**
+  
                            **0.41 accuracy** --> test set
 - **MLP**: 0.72 accuracy in the train set and 0.45 in the test set, using 500 neurons and a single hidden layer
 - **Random Forest**: 0.98 accuracy in the train but 0.40 in the test set, therefore showing overfitting problems.
