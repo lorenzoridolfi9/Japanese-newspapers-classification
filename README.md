@@ -108,6 +108,7 @@ Test-set | 0.56
 
 -   Hyperparameters: 10 epochs, 3 layers, 128 neurons for the first layer, 64 neurons the second one, 32 neurons for the third layer and 23 in the last layer.
 
+
 - **BILSTM**
 
 Dataset | Accuracy
