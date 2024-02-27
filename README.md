@@ -70,7 +70,7 @@ Test-set | 0.45
 Dataset | Accuracy
 -|-
 Train-set | 0.98     
-Test-set | 0.40 0.98 
+Test-set | 0.40
 
 
 Some suggestions 💡
