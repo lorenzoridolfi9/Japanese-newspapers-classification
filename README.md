@@ -114,3 +114,8 @@ It is a good idea to do hyperparameter tuning to understand which is the best se
 - GRU: test with layers of 128 neurons and at least 10 training epochs
 - LSTM: Try adding a further layer of 64 neurons, trying to hyperparameter tune the other parameters such as dropout and activation function.
 
+
+To conclude, the next steps to create more accurate classifiers could be the following:
+- Transformers, neural network architectures that use the attention mechanism to identify the most important parts from the less important ones
+- pretrained models such as GPT or LLAMA which have been found to be very efficient in processing natural language text
+- Work in environments that allow you to make greater use of computing power such as RAM and GPU to speed up and streamline operations
