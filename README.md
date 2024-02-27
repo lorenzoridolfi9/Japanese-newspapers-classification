@@ -119,3 +119,6 @@ To conclude, the next steps to create more accurate classifiers could be the fol
 - Transformers, neural network architectures that use the attention mechanism to identify the most important parts from the less important ones
 - pretrained models such as GPT or LLAMA which have been found to be very efficient in processing natural language text
 - Work in environments that allow you to make greater use of computing power such as RAM and GPU to speed up and streamline operations
+
+
+With these latest implementations, accuracies in the test set of around 70-80% could be achieved.
