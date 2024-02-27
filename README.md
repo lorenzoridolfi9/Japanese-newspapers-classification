@@ -52,7 +52,7 @@ The approach was as follows:
 In summary, the results are different from each other:
 - **Logistic Regression**
   
-0 | Happiness :smile:
+0 | Accuracy :smile:
 -|-
 Train-set | 0.58     :thumbsup:
 Test-set | 0.41   :cry:
