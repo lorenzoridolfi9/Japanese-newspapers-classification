@@ -106,6 +106,16 @@ Test-set | 0.60
 
 -   Hyperparameters: 10 epochs, 3 layers, 128 neurons for the first layer, 64 neurons the second one and 23 in the last layer.
 
+- **BILSTM**
+
+Dataset | Accuracy
+-|-
+Train-set | 0.70    
+Test-set | 0.60
+
+-   Hyperparameters: 10 epochs, 3 layers, 128 neurons for the first layer, 64 neurons the second one and 23 in the last layer.
+
+
 
 
 Some suggestions 💡
