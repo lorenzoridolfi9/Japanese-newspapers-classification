@@ -95,7 +95,7 @@ Dataset | Accuracy
 Train-set | 0.53    
 Test-set | 0.57
 
--  reaches 0.53 accuracy in the train set, 0.57 in the validation set and 0.57 in the test set, with 6 epochs, 3 layers, 64 neurons for the first two layers and 23 in the last layer.
+-  Hyperparameters: 6 epochs, 3 layers, 64 neurons for the first two layers and 23 in the last layer.
   
 - **LSTM**
 
@@ -104,7 +104,7 @@ Dataset | Accuracy
 Train-set | 0.70    
 Test-set | 0.60
 
--   reaches 0.70 accuracy in the train set, 0.60 in the validation set and 0.60 in the test set, with 10 epochs, 3 layers, 128 neurons for the first two layers and 23 in the last layer.
+-   Hyperparameters: 10 epochs, 3 layers, 128 neurons for the first two layers and 23 in the last layer.
 
 
 
