@@ -54,7 +54,7 @@ In summary, the results are different from each other:
   
 0 | Happiness :smile:
 -|-
-1 | Trust     :thumbsup:
+Train-set | Trust     :thumbsup:
 2 | Sadness   :cry:
 3 | Anger     :angry:
 4 | Fear      :scream:
