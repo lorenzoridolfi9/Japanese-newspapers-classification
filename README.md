@@ -37,7 +37,7 @@ In order to apply SMOTE, it was first necessary to transform the text into numer
 
 ### Model Creation ⚒️
 After processing the data in textual format and transforming it into numerical vectors, the dataset is ready to be used in Machine Learning and Deep Learning models to create a classifier.
-Regarding Machine Learning models, the following were tested:
+Regarding **Machine Learning** models, the following were tested:
 - **Logistic Regression**
 - **Multi Layer Perceptrons**
 - **Random Forest**
@@ -73,23 +73,40 @@ Train-set | 0.98
 Test-set | 0.40
 
 
+
 Some suggestions 💡
 
 It is a good idea to do hyperparameter tuning to understand which is the best set of parameters to use, in particular:
 - MLP: test with at least two layers and fewer neurons per layer. Test different activation functions.
 - Random Forest: test a random search by trying different configurations, such as the number of trees and the depth of the trees.
 Use cross-validation to compare results across different folds and prevent overfitting.
+- Test with machines that do not have RAM limitations and use more available data to grasp hidden relationships
 
-
-Regarding deep learning models, the following were tested:
+Regarding **Deep Learning** models, the following were tested:
 - **GRU**: Special Recurrent Neural Network that uses memory gates to store the most important information
   
 - **LSTM**: Long-Short-Term-Memory, type of neural network equipped with long-term memory
 
 In summary, the results are good and better than the machine learning approach, in particular:
-- GRU reaches 0.53 accuracy in the train set, 0.57 in the validation set and 0.57 in the test set, with 6 epochs, 3 layers, 64 neurons for the first two layers and 23 in the last layer.
+- **GRU**
+
+Dataset | Accuracy
+-|-
+Train-set | 0.53    
+Test-set | 0.57
+
+-  reaches 0.53 accuracy in the train set, 0.57 in the validation set and 0.57 in the test set, with 6 epochs, 3 layers, 64 neurons for the first two layers and 23 in the last layer.
   
-- LSTM reaches 0.70 accuracy in the train set, 0.60 in the validation set and 0.60 in the test set, with 10 epochs, 3 layers, 128 neurons for the first two layers and 23 in the last layer.
+- **LSTM**
+
+Dataset | Accuracy
+-|-
+Train-set | 0.70    
+Test-set | 0.60
+
+-   reaches 0.70 accuracy in the train set, 0.60 in the validation set and 0.60 in the test set, with 10 epochs, 3 layers, 128 neurons for the first two layers and 23 in the last layer.
+
+
 
 Some suggestions 💡
 
