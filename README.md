@@ -53,6 +53,7 @@ In summary, the results are different from each other:
 - **Logistic Regression**
   
    | Accucracy
+  
 -|-
 Train-set | 0.58 
 Test-set | 0.42   
