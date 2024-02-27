@@ -46,7 +46,8 @@ The approach was as follows:
 - Subdivision of data into train and test sets
 - Model training on the train set
 - Predictions on the test set
-- Classification report with accuracy, precision, recall and F1-Score metrics.
+- Classification report with accuracy, precision, recall and F1-Score metrics
+- Confusion matrix
 
 In summary, the results are different from each other:
 - Logistic Regression: 0.58 accuracy in the train set and 0.41 in the test set, the model that performs worst of all.
