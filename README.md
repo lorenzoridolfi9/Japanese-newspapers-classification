@@ -52,11 +52,13 @@ The approach was as follows:
 In summary, the results are different from each other:
 - **Logistic Regression**
   
-   | Accucracy
-  
+0 | Happiness :smile:
 -|-
-Train-set | 0.58 
-Test-set | 0.42   
+1 | Trust     :thumbsup:
+2 | Sadness   :cry:
+3 | Anger     :angry:
+4 | Fear      :scream:
+5 | Disgust   :dizzy_face:  
 
 - **MLP**: 0.72 accuracy in the train set and 0.45 in the test set, using 500 neurons and a single hidden layer
 - **Random Forest**: 0.98 accuracy in the train but 0.40 in the test set, therefore showing overfitting problems.
